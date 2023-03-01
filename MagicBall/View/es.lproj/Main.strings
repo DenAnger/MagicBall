@@ -1,0 +1,30 @@
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "1XY-n4-ezh"; */
+"1XY-n4-ezh.title" = "Settings";
+
+/* Class = "UILabel"; text = "Big Ball"; ObjectID = "2to-Ad-ktL"; */
+"2to-Ad-ktL.text" = "Big Ball";
+
+/* Class = "UILabel"; text = "Subscribe"; ObjectID = "6Fi-vO-9wp"; */
+"6Fi-vO-9wp.text" = "Subscribe";
+
+/* Class = "UILabel"; text = "Background"; ObjectID = "OGR-q6-MZf"; */
+"OGR-q6-MZf.text" = "Background";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VM5-gQ-etq"; */
+"VM5-gQ-etq.text" = "Label";
+
+/* Class = "UILabel"; text = "Small Ball"; ObjectID = "e2d-OQ-RIn"; */
+"e2d-OQ-RIn.text" = "Small Ball";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "eom-B6-5LS"; */
+"eom-B6-5LS.text" = "Text";
+
+/* Class = "UITabBarItem"; title = "Ball"; ObjectID = "nYu-bR-Ue3"; */
+"nYu-bR-Ue3.title" = "Ball";
+
+/* Class = "UILabel"; text = "Donation"; ObjectID = "p0X-7S-EzI"; */
+"p0X-7S-EzI.text" = "Donation";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "tKL-PM-7Gk"; */
+"tKL-PM-7Gk.title" = "Settings";
